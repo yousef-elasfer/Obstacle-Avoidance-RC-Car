@@ -1,6 +1,8 @@
 # Obstacle Avoidance RC Car
 This project is an Arduino-based smart RC car that can operate in two different modes: Manual Control Mode and Automatic Obstacle Avoidance Mode. The car uses an Ultrasonic Sensor to detect obstacles and a Servo Motor to scan the surrounding area and select a suitable direction.
 
+![Obstacle_Avoidance_RC_Car](Obstacle_Avoidance_RC_Car.png)
+
 # 🔹How It Works
 - **Automatic Mode**
 
